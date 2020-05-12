@@ -1,37 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://megamind77-coder.github.io/new_portfolio/</loc>
-  <lastmod>2020-05-12T20:04:45+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://megamind77-coder.github.io/new_portfolio/index.html</loc>
-  <lastmod>2020-05-12T20:04:45+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://megamind77-coder.github.io/new_portfolio/about.html</loc>
-  <lastmod>2020-05-12T20:04:45+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://megamind77-coder.github.io/new_portfolio/work.html</loc>
-  <lastmod>2020-05-12T20:04:45+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://megamind77-coder.github.io/new_portfolio/contact.html</loc>
-  <lastmod>2020-05-12T20:04:45+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>http://megamind77-coder.github.io/new_portfolio/</loc>
+    <lastmod>2020-05-12</lastmod>
+  </url>
+  <url>
+    <loc>http://megamind77-coder.github.io/new_portfolio/contact.html</loc>
+    <lastmod>2020-05-12</lastmod>
+  </url>
+  <url>
+    <loc>http://megamind77-coder.github.io/new_portfolio/work.html</loc>
+    <lastmod>2020-05-12</lastmod>
+  </url>
+  <url>
+    <loc>http://megamind77-coder.github.io/new_portfolio/about.html</loc>
+    <lastmod>2020-05-12</lastmod>
+  </url>
+  <url>
+    <loc>http://megamind77-coder.github.io/new_portfolio/index.html</loc>
+    <lastmod>2020-05-12</lastmod>
+  </url>
 </urlset>
+<!--<guid value="9d8059ff-3b67-43e2-a54c-f872e7b25974" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
